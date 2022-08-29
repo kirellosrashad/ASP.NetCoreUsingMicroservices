@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EmailService
+build_property.ProjectDir = C:\Visual Studio Projects\ASP.NetCoreUsingMicroservices\EmailService\
